@@ -1,2 +1,4 @@
 # Devploy-alert
-Can you deploy in production today?
+Dear Devops... Can you deploy in production today?
+
+![DevOps Friday Alert](devopsfridayalert.png "DevOps Friday Alert")
